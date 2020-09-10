@@ -1,9 +1,0 @@
-.idea
-.DS_Store
-.sass-cache
-Gemfile.lock
-package-json.lock
-_site
-_book
-node_modules
-_drafts
