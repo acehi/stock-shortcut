@@ -1,1 +1,1 @@
- * [术语](articles/terms/catalogue.md)
+* [术语](articles/terms/catalogue.md)
