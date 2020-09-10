@@ -1,1 +1,0 @@
-[EPS EXPMA指标]
