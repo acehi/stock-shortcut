@@ -1,0 +1,60 @@
+{
+  "title": "Distributed",
+  "author": "Acehi",
+  "description": "Distributed Article",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+  },
+  "structure": {
+    "readme": "README.md"
+  },
+  "plugins": [
+    "search",
+    "-sharing",
+    "back-to-top-button",
+    "chapter-fold",
+    "code",
+    "github",
+    "splitter",
+    "ancre-navigation",
+    "page-copyright",
+    "todo",
+    "donate",
+    "pageview-count",
+    "popup",
+    "expandable-chapters-small"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/acehi"
+    },
+    "page-copyright": {
+      "description": "modified at",
+      "signature": "Acehi",
+      "wisdom": "观天之道，执天之行，尽矣。",
+      "format": "YYYY-MM-dd hh:mm:ss",
+      "copyright": "Copyright &#169; Acehi",
+      "timeColor": "#666",
+      "copyrightColor": "#666",
+      "utcOffset": "8",
+      "style": "normal",
+      "noPowered": true
+    },
+    "page-toc-button": {
+      "maxTocDepth": 2,
+      "minTocSize": 2
+    },
+    "donate": {
+      "wechat": "/wechatpay.png",
+      "title": "",
+      "button": "赏",
+      "wechatText": "微信打赏"
+    }
+  }
+}
