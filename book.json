@@ -51,7 +51,7 @@
       "minTocSize": 2
     },
     "donate": {
-      "wechat": "/wechatpay.png",
+      "wechat": "../../../wechatpay.png",
       "title": "",
       "button": "赏",
       "wechatText": "微信打赏"
