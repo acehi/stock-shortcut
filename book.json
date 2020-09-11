@@ -12,7 +12,7 @@
     "epub": "styles/epub.css"
   },
   "structure": {
-    "readme": "SUMMARY.md"
+    "readme": "README.md"
   },
   "plugins": [
     "search",
