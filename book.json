@@ -20,6 +20,7 @@
     "back-to-top-button",
     "chapter-fold",
     "code",
+    "favicon",
     "github",
     "splitter",
     "ancre-navigation",
@@ -34,6 +35,16 @@
     "github": {
       "url": "https://github.com/acehi"
     },
+    "favicon": {
+      "shortcut": "../../../favicon.ico",
+      "bookmark": "../../../favicon.ico",
+      "appleTouch": "../../../apple-touch-icon.png",
+      "appleTouchMore": {
+        "120x120": "../../../apple-touch-icon-120x120.png",
+        "180x180": "../../../apple-touch-icon-180x180.png"
+      }
+    },
+
     "page-copyright": {
       "description": "modified at",
       "signature": "Acehi",
